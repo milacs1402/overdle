@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Alata", serif;
+}
+
+.tittle {
+    color: peru;
+    font-size: 30px;
+    font-family: "Sigmar", serif;
+
+}
+
+.guess {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    max-width: 50%;
+    width: 700px;
+    margin-bottom: 20px;
+    color: black;
+
+    & span {
+        font-weight: 100;
+    }
+}
+
+& input {
+    border: 1px solid black;
+    border-radius: 8px;
+    height: 25px;
+    width: 300px;
+    outline: none;
+    background-color: sandybrown;
+    color: black;
+
+}
+
+
