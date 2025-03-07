@@ -3,7 +3,9 @@
     align-items: center;
     flex-direction: column;
     font-family: "Alata", serif;
+    margin-left: 12vw;
 }
+
 
 .tittle {
     color: peru;
@@ -23,6 +25,7 @@
     margin-bottom: 20px;
     color: black;
 
+
     & span {
         font-weight: 100;
     }
@@ -31,12 +34,18 @@
 & input {
     border: 1px solid black;
     border-radius: 8px;
-    height: 25px;
-    width: 300px;
+    height: 4vh;
+    width: 40vw;
     outline: none;
-    background-color: sandybrown;
+    background-color: gainsboro;
     color: black;
 
 }
+
+/*.baixo {*/
+/*    !*margin-top: 50vh;*!*/
+/*    padding: 10vw;*/
+/*   background-color: red;*/
+/*}*/
 
 
