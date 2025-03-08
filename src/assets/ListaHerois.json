@@ -1,0 +1,383 @@
+{
+    "listaHerois": [
+      {
+        "nome": "Ana",
+        "genero": "Feminino",
+        "classe": "Suporte",
+        "compara": "ANA",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Ashe",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "ASHE",
+        "dano": "hitscan",
+        "especie": "humano",
+        "ano": 2018
+      },
+      {
+        "nome": "Baptiste",
+        "genero": "Masculino",
+        "classe": "Suporte",
+        "compara": "BAPTISTE",
+        "dano": "hitscan",
+        "especie": "humano",
+        "ano": 2019
+      },
+      {
+        "nome": "Bastion",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "BASTION",
+        "dano": "hitscan",
+        "especie": "Omnico",
+        "ano": 2016
+      },
+      {
+        "nome": "Brigitte",
+        "genero": "Feminino",
+        "classe": "Suporte",
+        "compara": "BRIGITTE",
+        "dano": "melee",
+        "especie": "humano",
+        "ano": 2018
+      },
+      {
+        "nome": "Cassidy",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "CASSIDY",
+        "dano": "hitscan",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "D.Va",
+        "genero": "Feminino",
+        "classe": "Tanque",
+        "compara": "D.VA",
+        "dano": "hitscan",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Doomfist",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "DOOMFIST",
+        "dano": "melee",
+        "especie": "aumentado",
+        "ano": 2017
+      },
+      {
+        "nome": "Echo",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "ECHO",
+        "dano": "projétil",
+        "especie": "Omnico",
+        "ano": 2020
+      },
+      {
+        "nome": "Genji",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "GENJI",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2016
+      },
+      {
+        "nome": "Hanzo",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "HANZO",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Hazard",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "HAZARD",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2024
+      },
+      {
+        "nome": "Illari",
+        "genero": "Feminino",
+        "classe": "Suporte",
+        "compara": "ILLARI",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2023
+      },
+      {
+        "nome": "Juno",
+        "genero": "Feminino",
+        "classe": "Suporte",
+        "compara": "JUNO",
+        "dano": "hitscan",
+        "especie": "humano",
+        "ano": 2024
+      },
+      {
+        "nome": "Junkrat",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "JUNKRAT",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Rainha Junker",
+        "genero": "Feminino",
+        "classe": "Tanque",
+        "compara": "RAINHA JUNKER",
+        "dano": "hitscan",
+        "especie": "humano",
+        "ano": 2022
+      },
+      {
+        "nome": "Kiriko",
+        "genero": "Feminino",
+        "classe": "Suporte",
+        "compara": "KIRIKO",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2022
+      },
+      {
+        "nome": "Lifeweaver",
+        "genero": "Masculino",
+        "classe": "Suporte",
+        "compara": "LIFEWEAVER",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2023
+      },
+      {
+        "nome": "Lúcio",
+        "genero": "Masculino",
+        "classe": "Suporte",
+        "compara": "LÚCIO",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Mauga",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "MAUGA",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2024
+      },
+      {
+        "nome": "Mei",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "MEI",
+        "dano": "raio",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Mercy",
+        "genero": "Feminino",
+        "classe": "Suporte",
+        "compara": "MERCY",
+        "dano": "raio",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Moira",
+        "genero": "Feminino",
+        "classe": "Suporte",
+        "compara": "MOIRA",
+        "dano": "raio",
+        "especie": "aumentado",
+        "ano": 2017
+      },
+      {
+        "nome": "Orisa",
+        "genero": "Feminino",
+        "classe": "Tanque",
+        "compara": "ORISA",
+        "dano": "hitscan",
+        "especie": "Omnico",
+        "ano": 2017
+      },
+      {
+        "nome": "Pharah",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "PHARAH",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Ramattra",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "RAMATTRA",
+        "dano": "projétil",
+        "especie": "Omnico",
+        "ano": 2022
+      },
+      {
+        "nome": "Reaper",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "REAPER",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2016
+      },
+      {
+        "nome": "Reinhardt",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "REINHARDT",
+        "dano": "melee",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Roadhog",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "ROADHOG",
+        "dano": "hitscan",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Sigma",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "SIGMA",
+        "dano": "projétil",
+        "especie": "aumentado",
+        "ano": 2019
+      },
+      {
+        "nome": "Sojourn",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "SOJOURN",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2022
+      },
+      {
+        "nome": "Sombra",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "SOMBRA",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2016
+      },
+      {
+        "nome": "Soldier: 76",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "SOLDIER: 76",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2016
+      },
+      {
+        "nome": "Symmetra",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "SYMMETRA",
+        "dano": "raio",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Torbjorn",
+        "genero": "Masculino",
+        "classe": "Dano",
+        "compara": "TORBJORN",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Tracer",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "TRACER",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2016
+      },
+      {
+        "nome": "Venture",
+        "genero": "Não Binário",
+        "classe": "Dano",
+        "compara": "VENTURE",
+        "dano": "projétil",
+        "especie": "humano",
+        "ano": 2024
+      },
+      {
+        "nome": "Winston",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "WINSTON",
+        "dano": "raio",
+        "especie": "aumentado",
+        "ano": 2016
+      },
+      {
+        "nome": "Widowmaker",
+        "genero": "Feminino",
+        "classe": "Dano",
+        "compara": "WIDOWMAKER",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2016
+      },
+      {
+        "nome": "Wrecking Ball",
+        "genero": "Masculino",
+        "classe": "Tanque",
+        "compara": "WRECKING BALL",
+        "dano": "hitscan",
+        "especie": "aumentado",
+        "ano": 2018
+      },
+      {
+        "nome": "Zarya",
+        "genero": "Feminino",
+        "classe": "Tanque",
+        "compara": "ZARYA",
+        "dano": "raio",
+        "especie": "humano",
+        "ano": 2016
+      },
+      {
+        "nome": "Zenyatta",
+        "genero": "Masculino",
+        "classe": "Suporte",
+        "compara": "ZENYATTA",
+        "dano": "hitscan",
+        "especie": "Omnico",
+        "ano": 2016
+      }
+    ]
+  }
+  

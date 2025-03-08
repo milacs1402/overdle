@@ -1,36 +1,44 @@
-import './styleHome.css'
-import HeroDescription from "../components/HeroDescription.jsx"
+import { useState } from 'react';
+import './styleHome.css';
+import HeroDescription from "../components/HeroDescription.jsx";
 
-function Home() {
+function Home(props) {
+    const [chutes, setChutes] = useState([]);
 
-    const heros = [{
-        id: 0,
-    }, {
-        id: 1,
-    }]
+    const enterr = (texto) => {
+        const op = texto.trim().toUpperCase();
+        if (!props.mp.has(op)) return;
+
+        //console.log("ain");
+        setChutes([op, ...chutes]); // Atualiza o estado para renderizar o componente
+    }
 
     return (
-
         <div className="container">
-
-            <div className={ "tittle" }>
+            <div className="tittle">
                 <h1>Overdle</h1>
             </div>
 
-
-            <div className={ "guess" }>
+            <div className="guess">
                 <h1>Adivinhe o herói do dia!</h1>
-                <input name='hero' type="text"/>
+                <input
+                    name="hero"
+                    type="text"
+                    onKeyDown={(event) => {
+                        if (event.key === "Enter") {
+                            enterr(event.target.value);
+                        }
+                    }}
+                />
             </div>
 
-
-            <div className={ "baixo" }>
-                { heros.map(hero => (
-                    <HeroDescription id={ hero.id }/>
-                )) }
+            <div className="chute-list">
+                {chutes.map((chute) => (
+                    <HeroDescription mp={props.mp} chute={chute} esc={props.esc} />
+                ))}
             </div>
         </div>
-    )
+    );
 }
 
-export default Home
+export default Home;

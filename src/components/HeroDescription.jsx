@@ -1,37 +1,37 @@
 import './StylesHeroDescription.css'
-import Ana from '../assets/PI_Cute_Ana.jpg'
-import Junk from '../assets/PI_Cute_Junkrat.jpg'
 
 function HeroDescription(props) {
+    //console.log("Uin", props.mp, props.chute, props.esc);
+    //console.log(props.mp.get(props.chute).nome);
+    let nome;
+    let sexo;
+    let especie;
+    let classe;
+    let dano;
+    let ano;
 
-    const heros = [{
-        id: 0,
-        pic: <img src={Ana} alt=""/>,
-        name: 'Ana',
-        class: 'suporte',
-        type: 'projétil',
-        gender: 'feminino',
-        year: 2016
-    }, {
-        id: 1,
-        pic: <img src={Junk} alt=""/>,
-        name: 'Junkrat',
-        class: 'dano',
-        type: 'projétil',
-        gender: 'masculino',
-        year: 2017
-    }]
+    nome = props.mp.get(props.chute).nome;
+    sexo = props.mp.get(props.chute).sexo;
+    especie = props.mp.get(props.chute).especie;
+    classe = props.mp.get(props.chute).classe;
+    dano = props.mp.get(props.chute).dano;
+    ano = props.mp.get(props.chute).ano;
+
+    const cor = (atributo, resp) => {
+        if(atributo === resp)
+          return 'green';
+        else
+          return 'red';
+      }
 
     return (
-        <div className={"list"}>
-
-            <div className={"pic"}>{heros[props.id].pic}</div>
-            <div className={"name"}>{heros[props.id].name}</div>
-            <div className={"class"}>{heros[props.id].class}</div>
-            <div className={"type"}>{heros[props.id].type}</div>
-            <div className={"gender"}>{heros[props.id].gender}</div>
-            <div className={"year"}>{heros[props.id].year}</div>
-
+        <div className="list">
+            <div className="name" style={{ color: cor(nome, props.mp.get(props.esc).nome) }}>{nome}</div>
+            <div className="name" style={{ color: cor(sexo, props.mp.get(props.esc).sexo) }}>{sexo}</div>
+            <div className="name" style={{ color: cor(especie, props.mp.get(props.esc).especie) }}>{especie}</div>
+            <div className="name" style={{ color: cor(classe, props.mp.get(props.esc).classe) }}>{classe}</div>
+            <div className="name" style={{ color: cor(dano, props.mp.get(props.esc).dano) }}>{dano}</div>
+            <div className="name" style={{ color: cor(ano, props.mp.get(props.esc).ano) }}>{ano}</div>
         </div>
     )
 }
