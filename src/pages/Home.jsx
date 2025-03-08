@@ -1,5 +1,5 @@
-import './style.css'
-import HeroDescription from "../Components/HeroDescription.jsx"
+import './styleHome.css'
+import HeroDescription from "../components/HeroDescription.jsx"
 
 function Home() {
 
@@ -13,21 +13,21 @@ function Home() {
 
         <div className="container">
 
-            <div className={"tittle"}>
+            <div className={ "tittle" }>
                 <h1>Overdle</h1>
             </div>
 
 
-            <div className={"guess"}>
+            <div className={ "guess" }>
                 <h1>Adivinhe o herói do dia!</h1>
                 <input name='hero' type="text"/>
             </div>
 
 
-            <div className={"baixo"}>
-                {heros.map(hero => (
-                    <HeroDescription id={hero.id}/>
-                ))}
+            <div className={ "baixo" }>
+                { heros.map(hero => (
+                    <HeroDescription id={ hero.id }/>
+                )) }
             </div>
         </div>
     )
