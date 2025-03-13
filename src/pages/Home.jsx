@@ -16,22 +16,19 @@ function Home(props) {
 
   return (
     <div className="container">
-      <div className="tittle">
-        <h1>Overdle</h1>
-      </div>
-
       <div className="guess">
-        <h1>Adivinhe o herói do dia!</h1>
-        <input
-          name="hero"
-          type="text"
-          onKeyDown={(event) => {
-            if (event.key === "Enter") {
-              enterr(event.target.value);
-              event.target.value = "";
-            }
-          }}
-        />
+          <h1>Modo De Jogo 1</h1>
+          <input
+              placeholder="Digite o nome de um herói..."
+              name="hero"
+              type="text"
+              onKeyDown={ (event) => {
+                  if (event.key === "Enter") {
+                      enterr(event.target.value);
+                      event.target.value = "";
+                  }
+              } }
+          />
       </div>
 
       <div className="chute-list">

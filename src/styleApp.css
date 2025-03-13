@@ -1,4 +1,21 @@
-* {
+.title {
+  color: #FFCB7F;
+  font-size: 30px;
+  font-family: "Sigmar", serif;
+  margin: 10%;
+  padding-left: 5%;
+  text-shadow: 0 1px 0 #676666,
+  0 5px 0 #0e0e0e,
+  0 4px 0 #1a1a1a,
+  0 3px 0 #2a2a2a,
+  0 2px 0 #444343,
+  0 6px 1px rgba(0,0,0,.1),
+  0 0 5px rgba(0,0,0,.1),
+  0 1px 3px rgba(0,0,0,.3),
+  0 3px 5px rgba(0,0,0,.2),
+  0 5px 10px rgba(0,0,0,.25),
+  0 10px 10px rgba(0,0,0,.2),
+  0 20px 20px rgba(0,0,0,.15);
 }
 
 .navbar-menu {
@@ -10,4 +27,26 @@
   transition: all 0.5s ease;
   left: 0;
   top: 0;
+
+  ul{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+  }
+
+  li{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 30px;
+    font-family: "Big Shoulders", sans-serif;
+    font-weight: bold;
+  }
+
+  .item{
+    text-decoration: none;
+    color: black;
+  }
+
 }
+
