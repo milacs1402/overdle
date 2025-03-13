@@ -1,9 +1,12 @@
 import { useState } from "react";
 import "./styleHome.css";
 import HeroDescription from "../components/HeroDescription.jsx";
+import { ConstNode } from "three/webgpu";
 
 function Home(props) {
   const [chutes, setChutes] = useState([]);
+  const [nombre, setNombre] = useState("");
+
 
   const enterr = (texto) => {
     const op = texto.trim().toUpperCase();
@@ -14,6 +17,9 @@ function Home(props) {
     setChutes([op, ...chutes]); // Atualiza o estado para renderizar o componente
   };
 
+  const heroisFiltrados = [...props.mp].filter(([chave, valor])=> valor.compara.startsWith(nombre.toUpperCase().trim()) && nombre != "");
+  //console.log(heroisFiltrados);
+
   return (
     <div className="container">
       <div className="guess">
@@ -22,14 +28,30 @@ function Home(props) {
               placeholder="Digite o nome de um herói..."
               name="hero"
               type="text"
+              value = {nombre}
+              onChange={(event) => {
+                if(event.target.value != "") 
+                    setNombre(event.target.value);
+                else
+                    setNombre("");
+              }}
               onKeyDown={ (event) => {
                   if (event.key === "Enter") {
                       enterr(event.target.value);
-                      event.target.value = "";
+                      setNombre("");
                   }
               } }
           />
       </div>
+      <ul>
+        {heroisFiltrados.map(([chave, valorr]) => {
+            return <li onClick={() => {
+                enterr(valorr.nome);
+                setNombre("")
+            }
+            }>{valorr.nome}</li>
+        })}
+      </ul>
 
       <div className="chute-list">
         {chutes.map((chute) => (
