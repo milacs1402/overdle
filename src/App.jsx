@@ -56,6 +56,11 @@ function App() {
               Modo de Jogo 3
             </Link>
           </li>
+          <li className={"about"}>
+            <Link to={"/3"} className="item">
+              Sobre nós
+            </Link>
+          </li>
         </ul>
       </nav>
       <div>
@@ -63,6 +68,7 @@ function App() {
           <Route exact path="" element={<Home mp={mapaHerois} esc={escolhido} />}/>
           {<Route exact path="/2" element={<jogo2 />} />}
           {<Route exact path="/3" element={<jogo3 />} />}
+          {<Route exact path="/4" element={<about />} />}
         </Routes>
       </div>
     </div>

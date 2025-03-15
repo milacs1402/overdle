@@ -17,7 +17,7 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "ASHE",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Humano",
       "ano": 2018,
       "visto": false
@@ -28,7 +28,7 @@
       "genero": "Masculino",
       "classe": "Suporte",
       "compara": "BAPTISTE",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Humano",
       "ano": 2019,
       "visto": false
@@ -39,7 +39,7 @@
       "genero": "Masculino",
       "classe": "Dano",
       "compara": "BASTION",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Omnico",
       "ano": 2016,
       "visto": false
@@ -50,7 +50,7 @@
       "genero": "Feminino",
       "classe": "Suporte",
       "compara": "BRIGITTE",
-      "dano": "melee",
+      "dano": "Melee",
       "especie": "Humano",
       "ano": 2018,
       "visto": false
@@ -61,7 +61,7 @@
       "genero": "Masculino",
       "classe": "Dano",
       "compara": "CASSIDY",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -72,7 +72,7 @@
       "genero": "Feminino",
       "classe": "Tanque",
       "compara": "D.VA",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -83,8 +83,8 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "DOOMFIST",
-      "dano": "melee",
-      "especie": "aumentado",
+      "dano": "Melee",
+      "especie": "Aumentado",
       "ano": 2017,
       "visto": false
     },
@@ -105,8 +105,8 @@
       "genero": "Masculino",
       "classe": "Dano",
       "compara": "GENJI",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
@@ -127,8 +127,8 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "HAZARD",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2024,
       "visto": false
     },
@@ -138,8 +138,8 @@
       "genero": "Feminino",
       "classe": "Suporte",
       "compara": "ILLARI",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2023,
       "visto": false
     },
@@ -149,7 +149,7 @@
       "genero": "Feminino",
       "classe": "Suporte",
       "compara": "JUNO",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Humano",
       "ano": 2024,
       "visto": false
@@ -171,7 +171,7 @@
       "genero": "Feminino",
       "classe": "Tanque",
       "compara": "RAINHA JUNKER",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Humano",
       "ano": 2022,
       "visto": false
@@ -193,8 +193,8 @@
       "genero": "Masculino",
       "classe": "Suporte",
       "compara": "LIFEWEAVER",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2023,
       "visto": false
     },
@@ -215,8 +215,8 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "MAUGA",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2024,
       "visto": false
     },
@@ -226,7 +226,7 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "MEI",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -237,7 +237,7 @@
       "genero": "Feminino",
       "classe": "Suporte",
       "compara": "MERCY",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -248,8 +248,8 @@
       "genero": "Feminino",
       "classe": "Suporte",
       "compara": "MOIRA",
-      "dano": "raio",
-      "especie": "aumentado",
+      "dano": "Raio",
+      "especie": "Aumentado",
       "ano": 2017,
       "visto": false
     },
@@ -259,7 +259,7 @@
       "genero": "Feminino",
       "classe": "Tanque",
       "compara": "ORISA",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Omnico",
       "ano": 2017,
       "visto": false
@@ -292,8 +292,8 @@
       "genero": "Masculino",
       "classe": "Dano",
       "compara": "REAPER",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
@@ -303,7 +303,7 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "REINHARDT",
-      "dano": "melee",
+      "dano": "Melee",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -314,7 +314,7 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "ROADHOG",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -326,7 +326,7 @@
       "classe": "Tanque",
       "compara": "SIGMA",
       "dano": "Projétil",
-      "especie": "aumentado",
+      "especie": "Aumentado",
       "ano": 2019,
       "visto": false
     },
@@ -336,8 +336,8 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "SOJOURN",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2022,
       "visto": false
     },
@@ -347,8 +347,8 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "SOMBRA",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
@@ -358,8 +358,8 @@
       "genero": "Masculino",
       "classe": "Dano",
       "compara": "SOLDIER: 76",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
@@ -391,8 +391,8 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "TRACER",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
@@ -414,7 +414,7 @@
       "classe": "Tanque",
       "compara": "WINSTON",
       "dano": "raio",
-      "especie": "aumentado",
+      "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
@@ -424,8 +424,8 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "WIDOWMAKER",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
@@ -435,8 +435,8 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "WRECKING BALL",
-      "dano": "hitscan",
-      "especie": "aumentado",
+      "dano": "Hitscan",
+      "especie": "Aumentado",
       "ano": 2018,
       "visto": false
     },
@@ -457,7 +457,7 @@
       "genero": "Masculino",
       "classe": "Suporte",
       "compara": "ZENYATTA",
-      "dano": "hitscan",
+      "dano": "Hitscan",
       "especie": "Omnico",
       "ano": 2016,
       "visto": false

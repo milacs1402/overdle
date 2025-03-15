@@ -4,8 +4,9 @@
   flex-direction: column;
   font-family: "Big Shoulders", sans-serif;
   margin-left: 18vw;
-  width: 88%;
+  width: 80%;
   height: 100%;
+  position: relative;
 }
 
 .guess {
@@ -42,6 +43,7 @@
 
 .sugestion{
   background-color: white;
+  font-family: "Big Shoulders", sans-serif;
   margin-top: -3vw;
   width: 37.27vw;
   border-bottom-left-radius: 9px;
@@ -49,14 +51,20 @@
   border-bottom: 1px solid black;
   border-left: 1px solid black;
   border-right: 1px solid black;
+  position: absolute;
+  z-index: 2;
+  top: 48vh;
 
   ul{
     list-style-type: none;
     margin-left: -2vw;
     font-size: 20px;
     cursor: pointer;
-    /*mudar fonte*/
-    /*mudar ponteiro*/
   }
 }
 
+.chute-list{
+  position: absolute;
+  z-index: 1;
+  top: 48vh;
+}
