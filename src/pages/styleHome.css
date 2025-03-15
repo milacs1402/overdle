@@ -33,10 +33,30 @@
 & input {
   border: 1px solid black;
   border-radius: 8px;
-  height: 5vh;
+  height: 6vh;
   width: 37vw;
   outline: none;
   background-color: white;
   color: black;
+}
+
+.sugestion{
+  background-color: white;
+  margin-top: -3vw;
+  width: 37.27vw;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+
+  ul{
+    list-style-type: none;
+    margin-left: -2vw;
+    font-size: 20px;
+    cursor: pointer;
+    /*mudar fonte*/
+    /*mudar ponteiro*/
+  }
 }
 

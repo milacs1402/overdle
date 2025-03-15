@@ -1,6 +1,7 @@
 {
   "listaHerois": [
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Ana",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -11,6 +12,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Ashe",
       "genero": "Feminino",
       "classe": "Dano",
@@ -21,6 +23,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Baptiste",
       "genero": "Masculino",
       "classe": "Suporte",
@@ -31,6 +34,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Bastion",
       "genero": "Masculino",
       "classe": "Dano",
@@ -41,6 +45,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Brigitte",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -51,6 +56,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Cassidy",
       "genero": "Masculino",
       "classe": "Dano",
@@ -61,6 +67,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "D.Va",
       "genero": "Feminino",
       "classe": "Tanque",
@@ -71,6 +78,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Doomfist",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -81,6 +89,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Echo",
       "genero": "Feminino",
       "classe": "Dano",
@@ -91,6 +100,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Genji",
       "genero": "Masculino",
       "classe": "Dano",
@@ -101,6 +111,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Hanzo",
       "genero": "Masculino",
       "classe": "Dano",
@@ -111,6 +122,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Hazard",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -121,6 +133,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Illari",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -131,6 +144,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Juno",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -141,6 +155,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Junkrat",
       "genero": "Masculino",
       "classe": "Dano",
@@ -151,6 +166,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Rainha Junker",
       "genero": "Feminino",
       "classe": "Tanque",
@@ -161,6 +177,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Kiriko",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -171,6 +188,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Lifeweaver",
       "genero": "Masculino",
       "classe": "Suporte",
@@ -181,6 +199,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Lúcio",
       "genero": "Masculino",
       "classe": "Suporte",
@@ -191,6 +210,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Mauga",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -201,6 +221,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Mei",
       "genero": "Feminino",
       "classe": "Dano",
@@ -211,6 +232,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Mercy",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -221,6 +243,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Moira",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -231,6 +254,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Orisa",
       "genero": "Feminino",
       "classe": "Tanque",
@@ -241,6 +265,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Pharah",
       "genero": "Feminino",
       "classe": "Dano",
@@ -251,6 +276,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Ramattra",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -261,6 +287,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Reaper",
       "genero": "Masculino",
       "classe": "Dano",
@@ -271,6 +298,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Reinhardt",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -281,6 +309,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Roadhog",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -291,6 +320,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Sigma",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -301,6 +331,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Sojourn",
       "genero": "Feminino",
       "classe": "Dano",
@@ -311,6 +342,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Sombra",
       "genero": "Feminino",
       "classe": "Dano",
@@ -321,6 +353,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Soldier: 76",
       "genero": "Masculino",
       "classe": "Dano",
@@ -331,6 +364,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Symmetra",
       "genero": "Feminino",
       "classe": "Dano",
@@ -341,6 +375,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Torbjorn",
       "genero": "Masculino",
       "classe": "Dano",
@@ -351,6 +386,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Tracer",
       "genero": "Feminino",
       "classe": "Dano",
@@ -361,6 +397,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Venture",
       "genero": "Não Binário",
       "classe": "Dano",
@@ -371,6 +408,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Winston",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -381,6 +419,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Widowmaker",
       "genero": "Feminino",
       "classe": "Dano",
@@ -391,6 +430,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Wrecking Ball",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -401,6 +441,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Zarya",
       "genero": "Feminino",
       "classe": "Tanque",
@@ -411,6 +452,7 @@
       "visto": false
     },
     {
+      "foto": "./assets/PI_Cute_Ana.jpg",
       "nome": "Zenyatta",
       "genero": "Masculino",
       "classe": "Suporte",

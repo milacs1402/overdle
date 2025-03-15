@@ -43,15 +43,17 @@ function Home(props) {
               } }
           />
       </div>
-      <ul>
-        {heroisFiltrados.map(([chave, valorr]) => {
-            return <li onClick={() => {
-                enterr(valorr.nome);
-                setNombre("")
-            }
-            }>{valorr.nome}</li>
-        })}
-      </ul>
+        <div className={"sugestion"}>
+            <ul>
+                { heroisFiltrados.map(([chave, valorr]) => {
+                    return <li onClick={ () => {
+                        enterr(valorr.nome);
+                        setNombre("")
+                    }
+                    }>{ valorr.nome }</li>
+                }) }
+            </ul>
+        </div>
 
       <div className="chute-list">
         {chutes.map((chute) => (

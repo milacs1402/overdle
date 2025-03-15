@@ -1,24 +1,31 @@
 .list {
+    align-items: center;
     display: flex;
-    justify-content: space-between;
-    background-color: #60676D;
-    margin: 10px;
-    padding: 15px;
-    width: 450px;
+    justify-content: space-evenly;
+    background-color: #F99E1A;
+    margin: 0.9vw;
+    padding: 1vw;
+    width: 60vw;
     height: 10vh;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 3px solid black;
 
-    .name, .class, .gender, .year, .type {
-        padding-top: 18px;
+    .name{
+        align-content: center;
+        text-align: center;
         font-size: 25px;
-    }
-
-    .year {
-        padding-right: 15px;
+        width: 140px;
+        height: 50px;
     }
 
     .pic {
-        padding-left: 20px;
+        padding: 10px;
     }
+
+    .name,.pic {
+        margin: 0.2vw;
+        border-radius: 4px;
+        background-color: black;
+    }
+
 }

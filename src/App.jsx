@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Routes } from "react-router-dom";
 import { Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
-import listaHerois from "./assets/ListaHerois.json";
+import listaHerois from "../public/assets/ListaHerois.json";
 import "./styleApp.css";
 
 function App() {
