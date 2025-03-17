@@ -20,14 +20,21 @@
     }
 
     .pic {
-        padding: 10px;
+        align-items: center;
         background-color: #0e0e0e;
     }
 
-    .name,.pic {
+    .picc {
+        height: auto; 
+        width: auto; 
+        max-width: 70px; 
+        max-height: 70px;
+    }
+
+    .name, .pic {
         margin: 0.35vw;
         border-radius: 4px;
-        background-color: black;
+        background-color:  #f99e1a;
     }
 
 }

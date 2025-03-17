@@ -1,7 +1,7 @@
 {
   "listaHerois": [
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Ana_Silhueta.jpg",
       "nome": "Ana",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -12,7 +12,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Ashe_Silhueta.jpg",
       "nome": "Ashe",
       "genero": "Feminino",
       "classe": "Dano",
@@ -23,7 +23,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Bap_Silhueta.jpg",
       "nome": "Baptiste",
       "genero": "Masculino",
       "classe": "Suporte",
@@ -34,7 +34,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Bastion_Silhueta.jpg",
       "nome": "Bastion",
       "genero": "Masculino",
       "classe": "Dano",
@@ -45,7 +45,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Brigitte_Silhueta.jpg",
       "nome": "Brigitte",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -56,7 +56,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Cassidy_Silhueta.jpg",
       "nome": "Cassidy",
       "genero": "Masculino",
       "classe": "Dano",
@@ -67,7 +67,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/DVa_Silhueta.jpg",
       "nome": "D.Va",
       "genero": "Feminino",
       "classe": "Tanque",
@@ -78,7 +78,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Doom_Silhueta.jpg",
       "nome": "Doomfist",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -89,7 +89,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Echo_Silhueta.jpg",
       "nome": "Echo",
       "genero": "Feminino",
       "classe": "Dano",
@@ -100,7 +100,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Genji_Silhueta.jpg",
       "nome": "Genji",
       "genero": "Masculino",
       "classe": "Dano",
@@ -111,7 +111,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Hanzo_Silhueta.jpg",
       "nome": "Hanzo",
       "genero": "Masculino",
       "classe": "Dano",
@@ -122,7 +122,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Hazard_Silhueta.jpg",
       "nome": "Hazard",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -133,7 +133,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Illari_Silhueta.jpg",
       "nome": "Illari",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -144,7 +144,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Juno_Silhueta.jpg",
       "nome": "Juno",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -155,7 +155,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Junk_Silhueta.jpg",
       "nome": "Junkrat",
       "genero": "Masculino",
       "classe": "Dano",
@@ -166,7 +166,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Rainha_Silhueta.jpg",
       "nome": "Rainha Junker",
       "genero": "Feminino",
       "classe": "Tanque",
@@ -177,7 +177,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Kiriko_Silhueta.jpg",
       "nome": "Kiriko",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -188,7 +188,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Life_Silhueta.jpg",
       "nome": "Lifeweaver",
       "genero": "Masculino",
       "classe": "Suporte",
@@ -199,7 +199,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Lucio_Silhueta.jpg",
       "nome": "Lúcio",
       "genero": "Masculino",
       "classe": "Suporte",
@@ -210,7 +210,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Mauga_Silhueta.jpg",
       "nome": "Mauga",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -221,7 +221,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Mei_Silhueta.jpg",
       "nome": "Mei",
       "genero": "Feminino",
       "classe": "Dano",
@@ -232,7 +232,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Mercy_Silhueta.jpg",
       "nome": "Mercy",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -243,7 +243,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Moira_Silhueta.jpg",
       "nome": "Moira",
       "genero": "Feminino",
       "classe": "Suporte",
@@ -254,7 +254,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Orisa_Silhueta.jpg",
       "nome": "Orisa",
       "genero": "Feminino",
       "classe": "Tanque",
@@ -265,7 +265,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Phara_Silhueta.jpg",
       "nome": "Pharah",
       "genero": "Feminino",
       "classe": "Dano",
@@ -276,7 +276,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Ramattra_Silhueta.jpg",
       "nome": "Ramattra",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -287,7 +287,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Reaper_Silhueta.jpg",
       "nome": "Reaper",
       "genero": "Masculino",
       "classe": "Dano",
@@ -298,7 +298,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Rein_Silhueta.jpg",
       "nome": "Reinhardt",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -309,7 +309,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Roadhog_Silhueta.jpg",
       "nome": "Roadhog",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -320,7 +320,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Sigma_Silhueta.jpg",
       "nome": "Sigma",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -331,7 +331,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Soujorn_Silhueta.jpg",
       "nome": "Sojourn",
       "genero": "Feminino",
       "classe": "Dano",
@@ -342,7 +342,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Sombra_Silhueta.jpg",
       "nome": "Sombra",
       "genero": "Feminino",
       "classe": "Dano",
@@ -353,29 +353,29 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
-      "nome": "Soldier: 76",
+      "foto": "./public/assets/Silhuetas/Soldado_Silhueta.jpg",
+      "nome": "Soldado: 76",
       "genero": "Masculino",
       "classe": "Dano",
-      "compara": "SOLDIER: 76",
+      "compara": "SOLDADO: 76",
       "dano": "Hitscan",
       "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Symmetra_Silhueta.jpg",
       "nome": "Symmetra",
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "SYMMETRA",
-      "dano": "Raio",
+      "dano": "raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Torb_Silhueta.jpg",
       "nome": "Torbjorn",
       "genero": "Masculino",
       "classe": "Dano",
@@ -386,7 +386,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Tracer_Silhueta.jpg",
       "nome": "Tracer",
       "genero": "Feminino",
       "classe": "Dano",
@@ -397,7 +397,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Venture_Silhueta.jpg",
       "nome": "Venture",
       "genero": "Não Binário",
       "classe": "Dano",
@@ -408,18 +408,18 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Winston_Silhueta.jpg",
       "nome": "Winston",
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "WINSTON",
-      "dano": "Raio",
+      "dano": "raio",
       "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.j pg",
+      "foto": "./public/assets/Silhuetas/Widow_Silhueta.jpg",
       "nome": "Widowmaker",
       "genero": "Feminino",
       "classe": "Dano",
@@ -430,7 +430,7 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Bola_Silhueta.jpg",
       "nome": "Wrecking Ball",
       "genero": "Masculino",
       "classe": "Tanque",
@@ -441,18 +441,18 @@
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Zarya_Silhueta.jpg",
       "nome": "Zarya",
       "genero": "Feminino",
       "classe": "Tanque",
       "compara": "ZARYA",
-      "dano": "Raio",
+      "dano": "raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./public/assets/Silhuetas/Zen_Silhueta.jpg",
       "nome": "Zenyatta",
       "genero": "Masculino",
       "classe": "Suporte",

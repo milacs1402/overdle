@@ -11,7 +11,7 @@ function HeroDescription(props) {
     let dano;
     let ano;
 
-    foto = <img src={props.mp.get(props.chute).foto}/>;
+    foto = <img src={props.mp.get(props.chute).foto} className="picc"/>;
     nome = props.mp.get(props.chute).nome;
     genero = props.mp.get(props.chute).genero;
     especie = props.mp.get(props.chute).especie;
@@ -28,7 +28,6 @@ function HeroDescription(props) {
         <div className="list">
             <div
                 className="pic"
-                style={ {background: cor(foto, props.mp.get(props.esc).foto)} }
             >
                 { foto }
             </div>
