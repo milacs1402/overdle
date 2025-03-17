@@ -369,7 +369,7 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "SYMMETRA",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -413,13 +413,13 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "WINSTON",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Aumentado",
       "ano": 2016,
       "visto": false
     },
     {
-      "foto": "./assets/PI_Cute_Ana.jpg",
+      "foto": "./assets/PI_Cute_Ana.j pg",
       "nome": "Widowmaker",
       "genero": "Feminino",
       "classe": "Dano",
@@ -446,7 +446,7 @@
       "genero": "Feminino",
       "classe": "Tanque",
       "compara": "ZARYA",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false

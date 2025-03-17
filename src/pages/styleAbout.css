@@ -1,0 +1,25 @@
+.main-about {
+    background-color: #FFCB7F;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Big Shoulders", sans-serif;
+    margin-left: 18vw;
+    width: 80%;
+    height: 100%;
+    margin-right: -200000vw;
+}
+
+.text-pjt{
+    align-items: center;
+    width: 50vw;
+    font-family: "Big Shoulders", sans-serif;
+    font-size: 20px;
+}
+
+.text-devs{
+    align-items: center;
+    width: 50vw;
+    font-family: "Big Shoulders", sans-serif;
+    font-size: 20px;
+}

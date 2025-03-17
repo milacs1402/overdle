@@ -19,7 +19,7 @@
   border-radius: 30px;
   max-width: 50%;
   width: 700px;
-
+  z-index: 3;
   color: black;
 
   h1{
@@ -33,19 +33,25 @@
 
 & input {
   border: 1px solid black;
-  border-radius: 8px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
   height: 6vh;
-  width: 37vw;
+  width: 36.4vw;
   outline: none;
   background-color: white;
   color: black;
+  font-family: "Big Shoulders", sans-serif;
+  font-size: 20px;
+  padding-left: 12px;
 }
 
 .sugestion{
   background-color: white;
   font-family: "Big Shoulders", sans-serif;
-  margin-top: -3vw;
-  width: 37.27vw;
+  margin-top: -3.05vw;
+  width: 37.35vw;
+  min-height: 1vh;
   border-bottom-left-radius: 9px;
   border-bottom-right-radius: 9px;
   border-bottom: 1px solid black;
@@ -58,6 +64,7 @@
   ul{
     list-style-type: none;
     margin-left: -2vw;
+    padding-left: 2.85vw;
     font-size: 20px;
     cursor: pointer;
   }
@@ -67,4 +74,6 @@
   position: absolute;
   z-index: 1;
   top: 48vh;
+  max-height: 50vh;
+  overflow-y: scroll;
 }

@@ -23,7 +23,7 @@ function Home(props) {
   return (
     <div className="container">
       <div className="guess">
-          <h1>Modo De Jogo 1</h1>
+          <h1>Herói do Dia</h1>
           <input
               placeholder="Digite o nome de um herói..."
               name="hero"
@@ -43,7 +43,7 @@ function Home(props) {
               } }
           />
       </div>
-        <div className={"sugestion"}>
+        <div className={ "sugestion" }>
             <ul>
                 { heroisFiltrados.map(([chave, valorr]) => {
                     return <li onClick={ () => {
@@ -54,12 +54,11 @@ function Home(props) {
                 }) }
             </ul>
         </div>
-
-      <div className="chute-list">
-        {chutes.map((chute) => (
-          <HeroDescription mp={props.mp} chute={chute} esc={props.esc} />
-        ))}
-      </div>
+        <div className="chute-list">
+            { chutes.map((chute) => (
+                <HeroDescription mp={ props.mp } chute={ chute } esc={ props.esc }/>
+            )) }
+        </div>
     </div>
   );
 }

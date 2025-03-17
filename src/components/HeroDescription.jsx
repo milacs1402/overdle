@@ -28,43 +28,43 @@ function HeroDescription(props) {
         <div className="list">
             <div
                 className="pic"
-                style={ {color: cor(foto, props.mp.get(props.esc).foto)} }
+                style={ {background: cor(foto, props.mp.get(props.esc).foto)} }
             >
                 { foto }
             </div>
             <div
                 className="name"
-                style={ {color: cor(nome, props.mp.get(props.esc).nome)} }
+                style={ {background: cor(nome, props.mp.get(props.esc).nome)} }
             >
                 { nome }
             </div>
             <div
                 className="name"
-                style={ {color: cor(genero, props.mp.get(props.esc).genero)} }
+                style={ {background: cor(genero, props.mp.get(props.esc).genero)} }
             >
                 { genero }
             </div>
             <div
                 className="name"
-                style={ {color: cor(especie, props.mp.get(props.esc).especie)} }
+                style={ {background: cor(especie, props.mp.get(props.esc).especie)} }
             >
                 { especie }
             </div>
             <div
                 className="name"
-                style={ {color: cor(classe, props.mp.get(props.esc).classe)} }
+                style={ {background: cor(classe, props.mp.get(props.esc).classe)} }
             >
                 { classe }
             </div>
             <div
                 className="name"
-                style={ {color: cor(dano, props.mp.get(props.esc).dano)} }
+                style={ {background: cor(dano, props.mp.get(props.esc).dano)} }
             >
                 { dano }
             </div>
             <div
                 className="name"
-                style={ {color: cor(ano, props.mp.get(props.esc).ano)} }
+                style={ {background: cor(ano, props.mp.get(props.esc).ano)} }
             >
                 { ano }
             </div>
