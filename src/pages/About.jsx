@@ -9,7 +9,7 @@ function About() {
             <div className={"text-pjt"}>
                 <p>
                 Esse projeto consiste em uma homenagem ao falecido Overdle I (feito por outras pessoas), que misteriosamente saiu do ar no ano de 2025, ano em que começamos o projeto de seu sucessor -esse site que você está agora. Caso você nem conheça o original, Overdle II é um jogo de adivinhação baseado nos personagens do jogo Overwatch 2 (não nos processem). Entre diariamente e divirta-se com o desafio.
-                E lembre-se heróis nunca morrem! 
+                E lembre-se: Heróis nunca morrem!
                 </p>
             </div>
             <div className={"sobre-devs"}>
