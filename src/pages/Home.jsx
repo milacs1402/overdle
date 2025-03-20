@@ -21,45 +21,47 @@ function Home(props) {
   //console.log(heroisFiltrados);
 
   return (
-    <div className="container">
-      <div className="guess">
-          <h1>Herói do Dia</h1>
-          <input
-              placeholder="Digite o nome de um herói..."
-              name="hero"
-              type="text"
-              value = {nombre}
-              onChange={(event) => {
-                if(event.target.value != "") 
-                    setNombre(event.target.value);
-                else
-                    setNombre("");
-              }}
-              onKeyDown={ (event) => {
-                  if (event.key === "Enter") {
-                      enterr(event.target.value);
-                      setNombre("");
-                  }
-              } }
-          />
+      <div className={"all"}>
+          <div className="container">
+              <div className="guess">
+                  <h1>Herói do Dia</h1>
+                  <input
+                      placeholder="Digite o nome de um herói..."
+                      name="hero"
+                      type="text"
+                      value={ nombre }
+                      onChange={ (event) => {
+                          if (event.target.value != "")
+                              setNombre(event.target.value);
+                          else
+                              setNombre("");
+                      } }
+                      onKeyDown={ (event) => {
+                          if (event.key === "Enter") {
+                              enterr(event.target.value);
+                              setNombre("");
+                          }
+                      } }
+                  />
+              </div>
+              <div className={ "sugestion" }>
+                  <ul>
+                      { heroisFiltrados.map(([chave, valorr]) => {
+                          return <li onClick={ () => {
+                              enterr(valorr.nome);
+                              setNombre("")
+                          }
+                          }>{ valorr.nome }</li>
+                      }) }
+                  </ul>
+              </div>
+              <div className="chute-list">
+                  { chutes.map((chute) => (
+                      <HeroDescription mp={ props.mp } chute={ chute } esc={ props.esc }/>
+                  )) }
+              </div>
+          </div>
       </div>
-        <div className={ "sugestion" }>
-            <ul>
-                { heroisFiltrados.map(([chave, valorr]) => {
-                    return <li onClick={ () => {
-                        enterr(valorr.nome);
-                        setNombre("")
-                    }
-                    }>{ valorr.nome }</li>
-                }) }
-            </ul>
-        </div>
-        <div className="chute-list">
-            { chutes.map((chute) => (
-                <HeroDescription mp={ props.mp } chute={ chute } esc={ props.esc }/>
-            )) }
-        </div>
-    </div>
   );
 }
 
