@@ -35,7 +35,7 @@ function About() {
                     </div>
                     <div className={ "dev2" }>
                         <div className={"img"}>
-                            <img src="public/assets/Spray_Logo.ico" alt=""/>
+                            <img src="public/assets/luis.jpg" alt=""/>
                         </div>
                         <h3>Luís Gabriel</h3>
                         <span>Desenvolvimento Back-End</span>
