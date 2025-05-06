@@ -23,7 +23,7 @@ function App() {
     }
 
     let numero = 0;
-    numero = Math.floor(Math.random() * 42);
+    numero = Math.floor(Math.random() * 43);
 
     let i = 0;
     for (let [key, value] of mapaHerois) {

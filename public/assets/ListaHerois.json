@@ -100,6 +100,17 @@
       "visto": false
     },
     {
+      "foto": "./public/assets/Silhuetas/Echo_Silhueta.jpg",
+      "nome": "Freja",
+      "genero": "Feminino",
+      "classe": "Dano",
+      "compara": "FREJA",
+      "dano": "Projétil",
+      "especie": "Humano",
+      "ano": 2025,
+      "visto": false
+    },
+    {
       "foto": "./public/assets/Silhuetas/Genji_Silhueta.jpg",
       "nome": "Genji",
       "genero": "Masculino",

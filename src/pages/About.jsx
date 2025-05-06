@@ -40,11 +40,12 @@ function About() {
                         <h3>Luís Gabriel</h3>
                         <span>Desenvolvimento Back-End</span>
                         <p>
-                            Estudante de Ciência da Computação na Unesp Bauru e apaixonada por desenvolvimento Front-End.
-                            Esse projeto foi extremamente importante pra mim e espero que vocês se divirtam tanto com ele
-                            quanto eu me diverti :) <br/>
-                            Meu main é o JunkRat e eu não quero julgamentos ok?!<br/>
-                            Muito obrigada!
+                            Estudante de Ciência da Computação na Unesp Bauru, coagido a escrever esse texto de agradecimento. 
+                            Então obrigado Blizzard pelo jogo, obrigado Camila pelo site e obrigado eu pelo Back-End.<br/>
+                            E meu main é o Lifewever.<br/>
+                            Muito obrigado!
+                            <br/>
+                            <br/>
                         </p>
                     </div>
                 </div>
