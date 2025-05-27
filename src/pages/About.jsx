@@ -21,7 +21,7 @@ function About() {
                 <div className={ "text-devs" }>
                     <div className={ "dev1" }>
                         <div className={"img"}>
-                            <img src="/camila.jpg" alt=""/>
+                            <img src="../../dist/assets/camila.jpg" alt=""/>
                         </div>
                         <h3>Camila Cristina</h3>
                             <span>Desenvolvimento Front-End</span>
@@ -35,7 +35,7 @@ function About() {
                     </div>
                     <div className={ "dev2" }>
                         <div className={"img"}>
-                            <img src="/luis.jpg" alt=""/>
+                            <img src="../../dist/assets/luis.jpg" alt=""/>
                         </div>
                         <h3>Luís Gabriel</h3>
                         <span>Desenvolvimento Back-End</span>
