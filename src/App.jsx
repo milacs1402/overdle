@@ -4,7 +4,7 @@ import { Routes } from "react-router-dom";
 import { Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import About from "./pages/About.jsx";
-import listaHerois from "./listaherois.json";
+import listaHerois from "../dist/assets/listaherois.json";
 import "./styleApp.css";
 
 
