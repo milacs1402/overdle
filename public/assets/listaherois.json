@@ -36,7 +36,7 @@
     {
       "foto": "/assets/Silhuetas/Bastion_Silhueta.jpg",
       "nome": "Bastion",
-      "genero": "Masculino",
+      "genero": "Máquina",
       "classe": "Dano",
       "compara": "BASTION",
       "dano": "Hitscan",
@@ -83,7 +83,7 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "DOOMFIST",
-      "dano": "Melee",
+      "dano": "Projétil",
       "especie": "Aumentado",
       "ano": 2017,
       "visto": false
@@ -91,7 +91,7 @@
     {
       "foto": "/assets/Silhuetas/Echo_Silhueta.jpg",
       "nome": "Echo",
-      "genero": "Feminino",
+      "genero": "Máquina",
       "classe": "Dano",
       "compara": "ECHO",
       "dano": "Projétil",
@@ -116,7 +116,7 @@
       "genero": "Masculino",
       "classe": "Dano",
       "compara": "GENJI",
-      "dano": "Hitscan",
+      "dano": "Projétil",
       "especie": "Aumentado",
       "ano": 2016,
       "visto": false
@@ -138,7 +138,7 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "HAZARD",
-      "dano": "Hitscan",
+      "dano": "Projétil",
       "especie": "Aumentado",
       "ano": 2024,
       "visto": false
@@ -204,7 +204,7 @@
       "genero": "Masculino",
       "classe": "Suporte",
       "compara": "LIFEWEAVER",
-      "dano": "Hitscan",
+      "dano": "Projétil",
       "especie": "Aumentado",
       "ano": 2023,
       "visto": false
@@ -270,7 +270,7 @@
       "genero": "Feminino",
       "classe": "Tanque",
       "compara": "ORISA",
-      "dano": "Hitscan",
+      "dano": "Projétil",
       "especie": "Omnico",
       "ano": 2017,
       "visto": false
@@ -289,7 +289,7 @@
     {
       "foto": "/assets/Silhuetas/Ramattra_Silhueta.jpg",
       "nome": "Ramattra",
-      "genero": "Masculino",
+      "genero": "Máquina",
       "classe": "Tanque",
       "compara": "RAMATTRA",
       "dano": "Projétil",
@@ -347,7 +347,7 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "SOJOURN",
-      "dano": "Hitscan",
+      "dano": "Projétil",
       "especie": "Aumentado",
       "ano": 2022,
       "visto": false
@@ -380,7 +380,7 @@
       "genero": "Feminino",
       "classe": "Dano",
       "compara": "SYMMETRA",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -410,7 +410,7 @@
     {
       "foto": "/assets/Silhuetas/Venture_Silhueta.jpg",
       "nome": "Venture",
-      "genero": "Não Binário",
+      "genero": "Não-Binário",
       "classe": "Dano",
       "compara": "VENTURE",
       "dano": "Projétil",
@@ -424,7 +424,7 @@
       "genero": "Masculino",
       "classe": "Tanque",
       "compara": "WINSTON",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Aumentado",
       "ano": 2016,
       "visto": false
@@ -457,7 +457,7 @@
       "genero": "Feminino",
       "classe": "Tanque",
       "compara": "ZARYA",
-      "dano": "raio",
+      "dano": "Raio",
       "especie": "Humano",
       "ano": 2016,
       "visto": false
@@ -465,10 +465,10 @@
     {
       "foto": "/assets/Silhuetas/Zen_Silhueta.jpg",
       "nome": "Zenyatta",
-      "genero": "Masculino",
+      "genero": "Máquina",
       "classe": "Suporte",
       "compara": "ZENYATTA",
-      "dano": "Hitscan",
+      "dano": "Projétil",
       "especie": "Omnico",
       "ano": 2016,
       "visto": false
