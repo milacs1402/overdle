@@ -1,7 +1,7 @@
 {
   "listaHerois": [
     {
-      "foto": "./dist/assets/Silhuetas/Ana_Silhueta.jpg",
+      "foto": "../src/camila.jpg",
       "nome": "Ana",
       "genero": "Feminino",
       "classe": "Suporte",
